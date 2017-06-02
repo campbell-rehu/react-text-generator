@@ -1,4 +1,4 @@
-# Lorem Ipsum Generator built with React
+# Dummy Text Generator built with React
 
 ![screenshot](./images/screenshot.png)
 
